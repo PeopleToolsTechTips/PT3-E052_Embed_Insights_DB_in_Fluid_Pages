@@ -25,5 +25,7 @@ This file contains all the objects referenced in the video and document.
   * This contains all the components, pages, records and PeopleCode used in the demonstration.
   * The target database must be minimal 8.58 PeopleTools
 
-* X_PT3_019_LOGFILE_UTIL (folder)  
-* X_PT3_019_LOGFILE_UTIL.zip  
+* X_PT3_E052_INSIGHT_DSHBD_IN_PG (folder)  
+* PT3 E52 Insights DB Object Definitions.zip
+* PT3 E52 Insights DB Object Definitions.ndjson
+
