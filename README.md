@@ -13,7 +13,7 @@ Beginning with PeopleTools 8.61, we can embed Insights dashboards in to Related 
 
 ### Web Posting: https://peopletoolstechtips.com/add-insights-dashboards-to-fluid-pages/
 
-### YouTube demo: 
+### YouTube demo: https://youtu.be/d_fWc-GoOzM
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
