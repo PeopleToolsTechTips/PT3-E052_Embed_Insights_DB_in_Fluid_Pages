@@ -11,7 +11,7 @@ Insights dashboards are a great way to provide context and meaning into your use
 Beginning with PeopleTools 8.61, we can embed Insights dashboards in to Related Content, Fluid pages and Fluid Work Centers.  We can now meet the user where they are at in their workflow and provide an Insights dashboard their pages besides their data.
 
 
-### Web Posting: 
+### Web Posting: https://peopletoolstechtips.com/add-insights-dashboards-to-fluid-pages/
 
 ### YouTube demo: 
 
